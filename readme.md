@@ -9,8 +9,8 @@
 
 ## Usage
 ```
-git clone kmewhort/hades_star_solver
+git clone git@github.com:kmewhort/hades_star_solver.git
 cd hades_star_solver
-pip3 install pandas matplotlib numpy ortools
+pip3 install jupyterlab ipywidgets pandas matplotlib numpy ortools
 jupyter notebook
 ```
